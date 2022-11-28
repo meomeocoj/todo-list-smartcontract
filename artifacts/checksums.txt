@@ -1,0 +1,2 @@
+87b9b6b4c4bbba6db0d4a9573512f814a1d5d6d304e73070adb74d0dff714e7f  schema.wasm
+13704a9b5f9485514a9372c4768b76bdee25db1dcaf6a4f0963c42e836e94233  todo_list_smartcontract.wasm
