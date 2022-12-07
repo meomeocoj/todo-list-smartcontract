@@ -1,0 +1,2 @@
+18ad6c9e555ffde8be9956d29ec213ea576f52ac79b3364a4888f5bf6eade4e1  ./target/wasm32-unknown-unknown/release/schema.wasm
+82d39d54c082ad0c0b72f4fda72a60df35b1128774968446965d93e8290c3828  ./target/wasm32-unknown-unknown/release/todo_list_smartcontract.wasm
